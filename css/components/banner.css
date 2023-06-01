@@ -1,0 +1,16 @@
+.banner {
+  background-image: url("https://d1fmx1rbmqrxrr.cloudfront.net/cnet/optim/i/edit/2018/09/arnaque-internet-scam-ai__w770.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.banner p {
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+}
+
+.banner h2 {
+color: white;
+}
